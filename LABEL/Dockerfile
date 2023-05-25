@@ -1,0 +1,5 @@
+FROM almalinux
+LABEL AUTHOR="SUDHAMS"\
+      COURSE="DEVOPS"\
+      FEES="10000"\
+      DURATION="50 HOURS"
