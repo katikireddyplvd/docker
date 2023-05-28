@@ -1,0 +1,4 @@
+FROM almalinux
+ENV AUTHOR="VAMSI"\
+    DUR="300 HOURS"\
+    FEES="1000"
